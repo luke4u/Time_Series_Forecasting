@@ -7,6 +7,6 @@ This is to predict the upwards and downwards trend of stock price using LSTM-bas
 
 Conclusion - in the parts of prediction which contain spikes, the model lags behind the actual prices, but in the parts that contain smooth changes, the model manages to follow upwards and downward trends. Please review the output for details.
 
-******Production level codes are now updated for the 1st model. ENJOY💕💕******
+******Production level codes are now updated for the 1st model.******
 
-******Dockerfile and Flask API dev are to be updated. Stay tuned 🤞🤞******
+******Dockerfile and Flask API dev are to be updated. Stay tuned******
